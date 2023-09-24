@@ -1,16 +1,24 @@
 # pr_3_media_boster_app
 
-A new Flutter project.
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/5dbb0416-128b-4230-808b-62439db0cb0c" width = "300">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/2550a0ba-0a37-45c7-8c87-0d72075a79cd" width = "300">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/6d8cbb41-6a88-4004-9551-4287224c0ce3" width = "300">
+
+
+
+
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/0ba85a39-5d21-4898-84c3-a1b1ed98ba06" width = "300">
+
+
+
+
+
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/d865855a-c471-4766-898b-bd02e9284da2" width = "300">
+
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/e4992efb-15ce-4161-85ff-47ec842c6cf2" width = "300">
+
