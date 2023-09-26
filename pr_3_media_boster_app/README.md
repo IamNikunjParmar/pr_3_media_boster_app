@@ -3,7 +3,7 @@
 <img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/5dbb0416-128b-4230-808b-62439db0cb0c" width = "300">
 
 
-<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/2550a0ba-0a37-45c7-8c87-0d72075a79cd" width = "300">
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/121dd7cd-88ee-4cd7-acf6-fe37f2a6b63d" width = "300">
 
 
 
