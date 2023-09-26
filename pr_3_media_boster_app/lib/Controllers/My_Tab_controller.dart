@@ -26,41 +26,51 @@ class MyTabController extends ChangeNotifier {
   List tabs = ["Home","Audio","video"];
 
 
-  List<Map> allSongsImages = [
+  List allDetailsAudio = [
 
     {
       "Names":"Kesariya Tera",
-      "images": "https://c.saavncdn.com/047/Jawan-Hindi-2023-20230921190854-500x500.jpg",
+      "images": "https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg",
+      "audios":"assets/audio/Kesariya .mp3",
+      "artists":"Pritam,Arjit singh,",
 
     },
     {
       "Names":"Deva Deva",
       "images": "https://c.saavncdn.com/044/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpg",
+      "audios":"assets/audio/Deva Deva.mp3",
+      "artists":"Pritam,Arjit singh",
 
     },
     {
       "Names":"Dil Jhoom",
       "images": "https://c.saavncdn.com/609/Gadar-2-Hindi-2023-20230912105532-500x500.jpg",
+      "audios":"assets/audio/Kesariya .mp3",
+      "artists":"Mithoon,Arjit singh",
 
     },
     {
       "Names":"Apna Bana Le",
       "images": "https://c.saavncdn.com/222/Bhediya-Hindi-2022-20230616085155-500x500.jpg",
+      "artists":"Arjit singh,Sachin-jigar",
 
     },
     {
       "Names":"Chaleya",
       "images": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "artists":"Anirudh,Arjit singh",
 
     },
     {
       "Names":"Raataan Lambiyan",
       "images": "https://c.saavncdn.com/238/Shershaah-Original-Motion-Picture-Soundtrack--Hindi-2021-20210815181610-500x500.jpg",
+      "artists":"jubin Notiyal",
 
     },
     {
       "Names":"Namo Namo",
       "images": "https://c.saavncdn.com/367/Kedarnath-Hindi-2019-20190219-500x500.jpg",
+      "artists":"Arjit singh",
 
     },
 

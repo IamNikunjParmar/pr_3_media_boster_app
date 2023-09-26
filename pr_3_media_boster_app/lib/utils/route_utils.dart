@@ -9,4 +9,6 @@ class MyRoutes {
   static String SettingPage = "setting_page";
 
   static String AudioPage = "audio_page";
+
+  static String AudioDetailsPage = "audio_details_page";
 }

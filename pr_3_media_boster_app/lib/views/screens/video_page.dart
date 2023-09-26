@@ -31,7 +31,7 @@ class VideoPage extends StatelessWidget {
                           onTap: () {
                             pro.ChangeVideo(index: index);
                           },
-                          title: Text("video: ${index + 1}"),
+                          title: Text("${pro.videos[index]}"),
                         );
 
                       }

@@ -22,20 +22,21 @@ class AudioPage extends StatelessWidget {
                         itemCount: pro.audio.length,
                         itemBuilder: (ctx,index){
                           return ListTile(
-                            trailing: Padding(
-                              padding: EdgeInsets.all(2),
-                              child: Column(
-                                children: [
+                            leading: Column(
+                              children: [
+                                CircleAvatar(
+                                  radius: 25,
+                                  foregroundImage: NetworkImage(pro.SongsImages[index]),
+                                ),
 
-                                ],
-                              ),
+                              ],
                             ),
 
                               onTap: () {
                                 pro.ChangAudio(index: index);
 
                               },
-                              title: Text("Audio:${index + 1}")
+                              title: Text("${pro.audio[index]}"),
 
                           );
 
@@ -98,7 +99,9 @@ class AudioPage extends StatelessWidget {
                       children: [
                         IconButton(
                           onPressed: () {
-                            pro.play();
+                              pro.play();
+
+
                           },
                           icon: Icon(
                               Icons.play_arrow),
@@ -106,10 +109,12 @@ class AudioPage extends StatelessWidget {
                         IconButton(
                           onPressed: () {
                             pro.pause();
+
                           },
                           icon: Icon(
                               Icons.pause),
                         ),
+
                       ],
                     ),
                   ),

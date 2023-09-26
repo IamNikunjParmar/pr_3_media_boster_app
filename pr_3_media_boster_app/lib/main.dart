@@ -7,6 +7,7 @@ import 'package:pr_3_media_boster_app/Controllers/audio_Controller.dart';
 import 'package:pr_3_media_boster_app/Controllers/theme_controller.dart';
 import 'package:pr_3_media_boster_app/Controllers/video_controller.dart';
 import 'package:pr_3_media_boster_app/utils/route_utils.dart';
+import 'package:pr_3_media_boster_app/views/screens/audio_details_page.dart';
 import 'package:pr_3_media_boster_app/views/screens/audio_page.dart';
 import 'package:pr_3_media_boster_app/views/screens/home_page.dart';
 import 'package:pr_3_media_boster_app/views/screens/setting_page.dart';
@@ -54,6 +55,7 @@ class MyApp extends StatelessWidget {
         MyRoutes.SplashScreen:(context)=> const SplashScreenPage(),
         MyRoutes.SettingPage:(context)=> const SettingPage(),
         MyRoutes.AudioPage:(context)=> const AudioPage(),
+        MyRoutes.AudioDetailsPage:(context)=> const AudioDetailsPage(),
       },
      // themeMode: ThemeMode.dark,
       themeMode:  Provider.of<ThemeController>(context).isDark? ThemeMode.light : ThemeMode.dark,
