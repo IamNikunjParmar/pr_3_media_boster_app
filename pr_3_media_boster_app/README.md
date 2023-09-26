@@ -18,7 +18,7 @@
 
 
 
-<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/d865855a-c471-4766-898b-bd02e9284da2" width = "300">
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/490245d6-8050-4fb0-b610-f14c44940a44" width = "300">
 
 <img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/e4992efb-15ce-4161-85ff-47ec842c6cf2" width = "300">
 
