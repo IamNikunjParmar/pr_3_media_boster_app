@@ -12,7 +12,7 @@
 
 
 
-<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/0ba85a39-5d21-4898-84c3-a1b1ed98ba06" width = "300">
+<img src = "https://github.com/nikunjparmar21899/pr_3_media_boster_app/assets/121547318/ddc310fa-9747-4905-993d-f26a434da5c3" width = "300">
 
 
 
